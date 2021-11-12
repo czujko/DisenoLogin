@@ -1,6 +1,9 @@
 # Login JavaFX
 
-![image](src/main/resources/images/Capturas/Captura de pantalla 2021-11-12 144333.png)
-![image](src/main/resources/images/Capturas/Captura de pantalla 2021-11-12 144445.png)
-![image](src/main/resources/images/Capturas/Captura de pantalla 2021-11-12 144507.png)
-![image](src/main/resources/images/Capturas/Captura de pantalla 2021-11-12 144541.png)
+![image](https://github.com/czujko/DisenoLogin/blob/master/src/main/resources/images/Capturas/Captura%20de%20pantalla%202021-11-12%20144333.png)
+
+![image](https://github.com/czujko/DisenoLogin/blob/master/src/main/resources/images/Capturas/Captura%20de%20pantalla%202021-11-12%20144445.png)
+
+![image](https://github.com/czujko/DisenoLogin/blob/master/src/main/resources/images/Capturas/Captura%20de%20pantalla%202021-11-12%20144445.png)
+
+![image](https://github.com/czujko/DisenoLogin/blob/master/src/main/resources/images/Capturas/Captura%20de%20pantalla%202021-11-12%20144541.png)
