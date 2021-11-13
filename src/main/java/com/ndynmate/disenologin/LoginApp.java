@@ -7,6 +7,7 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.util.Objects;
 
 public class LoginApp extends Application {
     @Override
@@ -16,7 +17,7 @@ public class LoginApp extends Application {
         stage.setResizable(false);
         stage.setTitle("nDynMATE - Login");
         //set icon
-        stage.getIcons().add(new Image(getClass().getResourceAsStream("/images/pajarito.png")));
+        stage.getIcons().add(new Image(Objects.requireNonNull(getClass().getResourceAsStream("/images/pajarito.png"))));
         stage.setScene(scene);
         stage.show();
     }
