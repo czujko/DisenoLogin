@@ -23,7 +23,7 @@ public class LoginController {
     public void initialize() {
         ConexionDB cn = new ConexionDB();
         cn.crearTabla();
-        //cn.insertarRegistro();
+        cn.insertarRegistro();
     }
 
     public void onClickLogin(ActionEvent actionEvent) {
