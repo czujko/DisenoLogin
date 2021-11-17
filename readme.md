@@ -2,11 +2,9 @@
 
 Login app made with JavaFX and MySQL database
 
-
-
 # Samples
-![](Capturas/01.png)
-![](Capturas/02.png)
-![](Capturas/03.png)
-![](Capturas/04.png)
+![](samples/01.png)
+![](samples/02.png)
+![](samples/03.png)
+![](samples/04.png)
 
